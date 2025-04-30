@@ -1,3 +1,10 @@
+<a name="v2.2.0"></a>
+## [v2.2.0] (2025-04-30)
+
+### Features
+
+* **go.mod:** change git-chglog pkg 
+
 
 <a name="v2.1.0"></a>
 ## [v2.1.0](https://github.com/robinjoseph08/go-pg-migrations/compare/v2.0.0...v2.1.0) (2020-10-15)
